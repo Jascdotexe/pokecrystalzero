@@ -48,3 +48,6 @@ Other disassembly projects:
 [irc]: https://web.libera.chat/?#pret
 [ci]: https://github.com/pret/pokecrystal/actions
 [ci-badge]: https://github.com/pret/pokecrystal/actions/workflows/main.yml/badge.svg
+
+
+A mostly personal project to learn github and such.
